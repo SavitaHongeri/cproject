@@ -1,5 +1,5 @@
 #include <stdio.h>
-biggest()
+biggest()  //calling func
 {
     int num1, num2;
     // Ask user to enter the two numbers
